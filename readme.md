@@ -7,3 +7,16 @@
 ```typescript
 export * as utilities from "./utilities";
 ```
+
+## Declare types
+
+- declare a function that the return type is void
+
+```typescript
+type Func = (state:boolean) => void
+
+interface ISwitcher {
+	onChange: Func
+	value: boolean
+}
+```
