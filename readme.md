@@ -28,6 +28,8 @@ interface ISwitcher {
 
 ## React
 
+- [checksheet](https://github.com/typescript-cheatsheets/react)
+
 - input change event
 	- code 
 	```typescript
@@ -36,3 +38,10 @@ interface ISwitcher {
 	}
 	```
 	- reference: [https://stackoverflow.com/questions/40676343/typescript-input-onchange-event-target-value](https://stackoverflow.com/questions/40676343/typescript-input-onchange-event-target-value)
+- select change event
+	- code
+	```typescript
+	onChange = (e: React.ChangeEvent<HTMLSelectElement>)=> {
+	   const newValue = e.target.value;
+	}
+	```
