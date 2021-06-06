@@ -22,3 +22,5 @@ interface ISwitcher {
 ```
 
 - [To describe the shape of libraries not written in TypeScript,](https://www.typescriptlang.org/docs/handbook/modules.html#working-with-other-javascript-libraries)
+
+- [Module exports practice](https://www.typescriptlang.org/docs/handbook/modules.html#export-as-close-to-top-level-as-possible)
