@@ -45,3 +45,5 @@ interface ISwitcher {
 	   const newValue = e.target.value;
 	}
 	```
+## Practices
+ - [How to use typescript in big projects](https://www.youtube.com/watch?v=RnTU81aQMRA)
