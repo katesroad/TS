@@ -5,6 +5,7 @@
 Doc:
  - https://www.typescriptlang.org/docs/handbook/tsconfig-json.html\
  - Check properties: https://www.typescriptlang.org/tsconfig
+ - Notice types folder in tsconfig.json filel.
 
 ## module
 
