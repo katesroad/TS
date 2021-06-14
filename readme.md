@@ -2,7 +2,9 @@
 
 ## tsconfig.json explained
 
-https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+Doc:
+ - https://www.typescriptlang.org/docs/handbook/tsconfig-json.html\
+ - Check properties: https://www.typescriptlang.org/tsconfig
 
 ## module
 
