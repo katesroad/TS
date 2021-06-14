@@ -1,5 +1,9 @@
 # TS
 
+## tsconfig.json explained
+
+https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+
 ## module
 
 - [export all as x](https://www.typescriptlang.org/docs/handbook/modules.html#export-all-as-x)
