@@ -6,7 +6,9 @@ Doc:
  - https://www.typescriptlang.org/docs/handbook/tsconfig-json.html\
  - Check properties: https://www.typescriptlang.org/tsconfig
  - Notice types folder in tsconfig.json filel.
+## Namespacing in typescript
 
+ - Doc: https://www.typescriptlang.org/docs/handbook/namespaces.html
 ## module
 
 - [export all as x](https://www.typescriptlang.org/docs/handbook/modules.html#export-all-as-x)
